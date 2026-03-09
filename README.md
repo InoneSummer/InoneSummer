@@ -1,3 +1,18 @@
+## Hi, I'm Inwon 👋
+
+AI Engineer & Data Analyst  
+Building RAG pipelines · Indie Android Dev · YouTuber
+
+### 🔧 Tech Stack
+AWS · Python · React Native · LLMs · Tableau · SQL 
+
+### 🚀 Currently Working On
+- **Dori Prompter** – AI teleprompter app for content creators
+
+### 📺 Channels
+- Ask Dori! : https://www.youtube.com/@askdori – AI/Tech in Korean
+
+### 📫 Contact
 iwchung@naileditapp.com
 
 

@@ -1,4 +1,4 @@
-## Hi, I'm Inwon 👋
+## Hi, I'm InoneSummer 👋
 
 AI Engineer & Data Analyst  
 Building RAG pipelines · Indie Android Dev · YouTuber

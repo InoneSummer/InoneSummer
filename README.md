@@ -5,9 +5,6 @@ AI Engineer & Data Analyst
 ### 🔧 Tech Stack
 AWS · Python · React Native · LLMs · Tableau · SQL 
 
-### 🚀 Currently Working On
-- **Dori Prompter** – AI teleprompter app for content creators
-
 ### 📺 Channels
 - Ask Dori! : https://www.youtube.com/@askdori – AI/Tech in Korean
 

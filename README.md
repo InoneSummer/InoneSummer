@@ -1,7 +1,6 @@
 ## Hi, I'm InoneSummer 👋
 
 AI Engineer & Data Analyst  
-Building RAG pipelines · Indie Android Dev · YouTuber
 
 ### 🔧 Tech Stack
 AWS · Python · React Native · LLMs · Tableau · SQL 
